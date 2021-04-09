@@ -1,0 +1,14 @@
+
+@import 'https://fonts.googleapis.com/css?family=Poppin:300,400,600';
+html, body {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  color: #494949;
+  font-size: 20px;
+  line-height: 1.75em;
+
+}
+.box .table{
+  box-sizing: border-box;
+  
+}
